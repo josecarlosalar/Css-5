@@ -103,6 +103,9 @@
     border-radius: 50%;
     padding: 10px;
   }
+  .page-container .card .member-name {
+    text-align: center;
+  }
   footer {
     grid-column: 1/-1;
     background-color: rgb(249, 251, 228);
@@ -189,8 +192,8 @@
   .page-container .card {
     background-color: white;
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    flex-direction: row;
+    justify-content: flex-start;
     align-items: center;
     width: 1fr;
     height: 200px;
