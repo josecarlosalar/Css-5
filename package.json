@@ -1,0 +1,22 @@
+{
+  "name": "laboratorio-css-extra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josecarlosalar/Laboratorio-Css-Extra.git"
+  },
+  "author": "José Carlos Alarcón Murillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josecarlosalar/Laboratorio-Css-Extra/issues"
+  },
+  "homepage": "https://github.com/josecarlosalar/Laboratorio-Css-Extra#readme",
+  "devDependencies": {
+    "sass": "^1.55.0"
+  }
+}
